@@ -300,7 +300,3 @@ This is a **prototype / learning project**, not production-ready software:
 - All state is in-memory and lost on restart
 - No input validation, rate limiting, or HTTPS
 - Order matching and cancellation are not implemented
-
-## License
-
-Not specified.
